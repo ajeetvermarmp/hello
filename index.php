@@ -1,1 +1,1 @@
-colossal
+colossal-info-solutions
